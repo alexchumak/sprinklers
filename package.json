@@ -7,7 +7,8 @@
     "cylon": "x",
     "cylon-firmata": "x",
     "cylon-gpio": "x",
-    "cylon-i2c": "x"
+    "cylon-i2c": "x",
+    "cylon-api-http": "x"
   }
 }
 

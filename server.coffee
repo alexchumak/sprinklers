@@ -1,4 +1,7 @@
 Cylon = require('cylon')
+
+Cylon.api('http')
+
 # Initialize the robot
 Cylon.robot(
   connections: arduino:
@@ -17,6 +20,6 @@ Cylon.robot(
       pin: 9
 
   work: (my) ->
-    my.front.toggle()
+    return
 
 ).start()
