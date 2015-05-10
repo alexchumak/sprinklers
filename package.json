@@ -1,0 +1,13 @@
+{
+  "name": "limbo",
+  "description": "Control sprinklers",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cylon": "x",
+    "cylon-firmata": "x",
+    "cylon-gpio": "x",
+    "cylon-i2c": "x"
+  }
+}
+
